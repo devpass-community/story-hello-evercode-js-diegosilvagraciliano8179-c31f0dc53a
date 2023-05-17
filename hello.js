@@ -1,5 +1,6 @@
 function hello(str) {
-    return console.log(`Hello, ${str}!`)
+    novaString = `Hello, ${str}!`
+    return novaString
 };
 
 module.exports = hello;
