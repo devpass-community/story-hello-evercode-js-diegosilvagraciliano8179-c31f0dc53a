@@ -1,5 +1,6 @@
 function hello(str) {
-    // Add your solution here!
+    novaString = `Hello, ${str}!`
+    return novaString
 };
 
 module.exports = hello;
